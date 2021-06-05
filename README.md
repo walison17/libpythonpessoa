@@ -1,6 +1,4 @@
 # libpythonpessoa
 Módulo para exemplificar construção de projetos Python no curso Pytools
 
-#teste
-
-
+Link do curso [Python Pro](https://www.python.pro.br/)
