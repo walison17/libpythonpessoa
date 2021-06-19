@@ -6,7 +6,7 @@ Nesse curso é ensinado como contribuir com projetos de codigo aberto
 Link do curso [Python Pro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.com/pessoasnil/libpythonpessoa.svg?branch=main)](https://travis-ci.com/pessoasnil/libpythonpessoa)
-
+[![Updates](https://pyup.io/repos/github/pessoasnil/libpythonpessoa/shield.svg)](https://pyup.io/repos/github/pessoasnil/libpythonpessoa/)
 
 Suportada a versão 3.8 de Pyyhon
 
@@ -30,6 +30,7 @@ Comando importantes do Pip:
     1. pip  freeze(checar bibliotecas instaladas )
     2. pip  freeze > requiremensts.txt(arquivo para ficar na raiz que vai difinir dependencias do projeto )
     3. pip  install -r  requiremensts.txt(Cria o arquivo de dependencias se for preciso )
+    3. pip  uninstalled requests  (desistala uma biblioteca)
 
 
 Comando importantes dentro do.venv:
@@ -39,6 +40,14 @@ Comando importantes dentro do.venv:
 
 
 
-
  links relevantes: 
+
  [Dados Minha conta](https://api.github.com/users/pessoasnil)
+
+ [Repositorio pip install](https://pypi.org/)
+
+[Automatiza processso de integração de Dependencias](https://pyup.io/)
+
+
+
+ 
