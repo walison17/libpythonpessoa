@@ -18,6 +18,18 @@ Tópicos a serem Abordados:
 ####3. pyenv versions (Versões disponiveis nele)
 ####4. pyenv global (Versão escolhida)
 
+#Comando importantes do Pip:
+####1. pip  freeze(checar bibliotecas instaladas )
+####2. pip  freeze > requiremensts.txt(arquivo para ficar na raiz que vai difinir dependencias do projeto )
+####2. pip  install -r  requiremensts.txt(Cria o arquivo de dependencias se for preciso )
+
+
+#Comando importantes dentro do.venv:
+####1. deactivate (sair do anbiante virtal )
+####2. source .venv/bin/activate (entra no anbiante virtal )
+
+
+
 
 # links relevantes: 
 ### [Dados Minha conta](https://api.github.com/users/pessoasnil)
