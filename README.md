@@ -5,6 +5,9 @@ Nesse curso é ensinado como contribuir com projetos de codigo aberto
 
 Link do curso [Python Pro](https://www.python.pro.br/)
 
+[![Build Status](https://travis-ci.com/pessoasnil/libpythonpessoa.svg?branch=main)](https://travis-ci.com/pessoasnil/libpythonpessoa)
+
+
 Suportada a versão 3.8 de Pyyhon
 
 Tópicos a serem Abordados:
@@ -12,6 +15,9 @@ Tópicos a serem Abordados:
     1. git
     2. Virtualenv
     3.Pip
+    4.Travis ()
+
+
 Comando importantes do Pyenv:
 
     1. pyenv  install -l (checar as Versõs do Python)
