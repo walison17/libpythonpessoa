@@ -8,6 +8,7 @@ Link do curso [Python Pro](https://www.python.pro.br/)
 Suportada a versão 3.8 de Pyyhon
 
 Tópicos a serem Abordados:
+
     1. git
     2. Virtualenv
     3.Pip
@@ -19,12 +20,14 @@ Tópicos a serem Abordados:
 ####4. pyenv global (Versão escolhida)
 
 #Comando importantes do Pip:
+
 ####1. pip  freeze(checar bibliotecas instaladas )
 ####2. pip  freeze > requiremensts.txt(arquivo para ficar na raiz que vai difinir dependencias do projeto )
 ####2. pip  install -r  requiremensts.txt(Cria o arquivo de dependencias se for preciso )
 
 
 #Comando importantes dentro do.venv:
+
 ####1. deactivate (sair do anbiante virtal )
 ####2. source .venv/bin/activate (entra no anbiante virtal )
 
