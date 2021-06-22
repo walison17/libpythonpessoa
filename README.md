@@ -15,7 +15,8 @@ Tópicos a serem Abordados:
     1. git
     2. Virtualenv
     3.Pip
-    4.Travis ()
+    4.Travis 
+
 
 
 Comando importantes do Pyenv:
@@ -25,18 +26,23 @@ Comando importantes do Pyenv:
     3. pyenv versions (Versões disponiveis nele)
     4. pyenv global (Versão escolhida)
 
-Comando importantes do Pip:
+Comando importantes do Pip, python e linux:
 
     1. pip  freeze(checar bibliotecas instaladas )
     2. pip  freeze > requiremensts.txt(arquivo para ficar na raiz que vai difinir dependencias do projeto )
     3. pip  install -r  requiremensts.txt(Cria o arquivo de dependencias se for preciso )
     3. pip  uninstalled requests  (desistala uma biblioteca)
+    4. python3 -m venv .venv (crinado um venv local para testar os codigos )
+    5. source .venv/bin/activate (ativando a .venv para testes)
+    6. ls |grep lib (para ver onde esta meu projeto)
+    7.pip install -e ./libpythonpessoa/(para instalar aqui a biblioteca e editar e testar)
 
 
 Comando importantes dentro do.venv:
 
     1. deactivate (sair do anbiante virtal )
     2. source .venv/bin/activate (entra no anbiante virtal )
+
 
 
 
