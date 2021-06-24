@@ -35,7 +35,10 @@ Comando importantes do Pip, python e linux:
     4. python3 -m venv .venv (crinado um venv local para testar os codigos )
     5. source .venv/bin/activate (ativando a .venv para testes)
     6. ls |grep lib (para ver onde esta meu projeto)
-    7.pip install -e ./libpythonpessoa/(para instalar aqui a biblioteca e editar e testar)
+    7. pip install -e ./libpythonpessoa/(para instalar aqui a biblioteca e editar e testar)
+    8. python setup.py sdist(Cria um diretorio com a minha distribuição)
+    9. pip install twine(lib para fazer a fazer a publicação dp projeto no pypi.org)
+    10.twine upload dist/*( para mandar tudo que eu tendro do meu projeto)
 
 
 Comando importantes dentro do.venv:
