@@ -102,9 +102,6 @@ AUTHOR_EMAIL = "pessoasnil@gmail.com"
 URL = "https://github.com/pessoasnil/libpythonpessoa/"
 VERSION = __import__(PACKAGE).__version__
 
-
-
-
 setup(
     name=NAME,
     version=VERSION,
@@ -124,7 +121,7 @@ setup(
         "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
-        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.9",
         "Framework :: Pytest",
     ],
     install_requires=[
