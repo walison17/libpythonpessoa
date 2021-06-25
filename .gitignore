@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 # Mr Developer
 .idea
+*.idea
+.idea/
