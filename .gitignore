@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+#Pycharm files
+.idea/
+.classpath
+.project
+.settings/
+bin/
+*.sqlite3
 # Distribution / packaging
 .Python
 build/
