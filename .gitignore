@@ -131,3 +131,10 @@ dmypy.json
 .idea
 *.idea
 .idea/
+#Pycharm files
+.idea/
+.classpath
+.project
+.settings/
+bin/
+*.sqlite3
